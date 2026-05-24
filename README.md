@@ -12,7 +12,11 @@
 - **触屏支持**：移动端触摸操控
 - **暂停/继续**：游戏中途可暂停
 
-## 快速开始
+## 在线游玩
+
+直接访问：**[danyuyu211.github.io/naiwa-tetris](https://danyuyu211.github.io/naiwa-tetris/)**
+
+## 本地运行
 
 浏览器直接打开 `Tetris.html` 即可游玩，无需任何构建工具。
 
