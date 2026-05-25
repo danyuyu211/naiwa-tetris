@@ -18,7 +18,7 @@
 
 ## 本地运行
 
-浏览器直接打开 `Tetris.html` 即可游玩，无需任何构建工具。
+浏览器直接打开 `index.html` 即可游玩，无需任何构建工具。
 
 ## 操作方式
 
@@ -39,7 +39,7 @@
 
 ```
 Tetris_Game/
-├── Tetris.html    # 游戏主文件（包含全部 HTML/CSS/JS）
+├── index.html    # 游戏主文件（包含全部 HTML/CSS/JS）
 ├── README.md      # 项目说明
 ├── ranks.json     # 排行榜数据
 └── users.json     # 用户数据
